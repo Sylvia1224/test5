@@ -1,0 +1,1 @@
+document.write("Here is Star in love~~~ ")
